@@ -4,3 +4,5 @@ model training.ipynb: Training model using random dataset splitting method, unde
 model_parameters_training.pth: model parameters aftering training.
  
 Model_val.ipynb: Prediction using the model after training.
+
+Data S1: source data obatined from experiments and used for model training.
