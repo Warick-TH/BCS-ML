@@ -1,4 +1,4 @@
-# BCS-ML
+# BCS-ML(under construction)
 model training.ipynb: Training model using random dataset splitting method, under the best model architecture.
 
 model_parameters_training.pth: model parameters aftering training.
