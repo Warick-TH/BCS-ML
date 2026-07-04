@@ -100,7 +100,7 @@ This part contains the experimental data of all base components (1BC, 2BCs,3BCs 
 
 ### (3) Data for model training and testing
 
-This part contains the processed input and output data required for model training and testing.
+This part contains the  input and output data required for model training and testing.
 
 ### (4) Data for model verification
 
