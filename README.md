@@ -96,7 +96,7 @@ The calculation method is described in detail in the Methods section of the manu
 
 ### (2) Experimental data of all BCs
 
-This part contains the experimental data of all base components, which were used for dataset construction and dataset-distribution analysis.
+This part contains the experimental data of all base components (1BC, 2BCs,3BCs and ≥4BCs), which were used for dataset construction and dataset-distribution analysis.
 
 ### (3) Data for model training and testing
 
