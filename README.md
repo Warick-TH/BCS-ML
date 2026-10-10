@@ -2,10 +2,6 @@
 
 This repository contains the source data, trained model parameters, and code used for constructing and evaluating BCS-based machine learning models for predicting the thermochemical conversion behavior of the organic fraction of municipal solid waste (MSW).
 
-This repository supports the manuscript:
-
-**The Base Component System (BCS) of Thermochemical Conversion of Municipal Solid Waste**
-
 ## Repository contents
 
 ```text
@@ -167,16 +163,6 @@ The packages can be installed using:
 ```bash
 pip install pandas numpy matplotlib scikit-learn xgboost torch scikit-optimize openpyxl
 ```
-
-## Notes
-
-In the revised code, the 7:3 data split is described as a training/validation split.
-
-- The training set is used for model fitting and parameter updating.
-- The validation set is used for model evaluation during model development and early stopping.
-- The 15 practical MSW experiments are used only for independent external verification.
-
-No smoothing is applied when calculating the evaluation metrics for the 15 external verification experiments.
 
 ## License
 
