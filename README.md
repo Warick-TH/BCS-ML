@@ -186,4 +186,4 @@ This repository is released under the MIT License.
 
 If you use this repository, please cite:
 
-Chen, F. et al. Code for “The Base Component System (BCS) of Thermochemical Conversion of Municipal Solid Waste.” BCS-ML. https://doi.org/10.5281/zenodo.23201845 (2026).
+Chen, F. et al. Code for “The Base Component System (BCS) of Thermochemical Conversion of Municipal Solid Waste.” BCS-ML. https://doi.org/10.5281/zenodo.23273537 (2026).
